@@ -13,15 +13,15 @@
 - 📖 **Recipe Management** – add, view, delete, and update recipes with details such as name, ingredients, and instructions  
 - 🔍 **Search & Filters** – find recipes easily by category or dietary preferences  
 - ⏱️ **Cooking Timer** – track your cooking sessions with a built-in timer  
-- 🏠 **Dashboard** – manage your profile and recipes in one place  
+- 📜 **Recipe List** – view and manage all your saved recipes in one place  
 
 ---
 
 ## 🛠️ Tech Stack
-- **Java (Swing)** – desktop GUI  
-- **MySQL** – database for persistent storage  
 - **NetBeans IDE** – development environment  
-- **MVC Pattern** – clean and modular architecture  
+- **Java (Swing)** – GUI
+- **MySQL** – database   
+- **MVC Pattern**   
 - **OOP Principles** – encapsulation, inheritance, polymorphism, abstraction  
 
 ---
