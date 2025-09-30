@@ -35,7 +35,7 @@ This project was built to apply and demonstrate the following:
 
 ---
 
-👩🏻‍💻 Author
+## 👩🏻‍💻 Author
 Developed by **Adrielle Agbayani**
 Final requirement for **Object-Oriented Programming Course at National University – Manila**
 
