@@ -1,3 +1,5 @@
+<div align="center">
+  
 # 🍴 Flavor Vault – Recipe Management System
 
 ![Made with Java](https://img.shields.io/badge/Made%20with-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
